@@ -1,8 +1,7 @@
 # Hi there, I'm Hung :wave:
 
-## I am a completely self-taught web developer. <br> <br> I'm into back-end development, but willing to challenge myself with front-end as well.
-- :technologist: I'm currently working on my e-commerce website "MegaMarket"
-- :student: I'm currently learning Spring, Hibernate and ReactJs
+## I am a completely self-taught software engineer. <br> <br> My current position is web-cum-mobile developer.
+- :technologist: I'm currently working on my pet project: "MegaMarket" e-commerce website
 
 ### Languages and Tools:
 <img align="left" alt="Java" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" style="padding-right:10px;" />
