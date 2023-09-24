@@ -1,9 +1,9 @@
 # Hi there, I'm Hung :wave:
 
-## I am a completely self-taught software engineer. <br> <br> My current position is web-cum-mobile developer.
+## I'm a completely self-taught software engineer. <br> <br> My current position is web-cum-mobile developer.
 - :technologist: I'm currently working on my pet project: "MegaMarket" e-commerce website
 
-### Tech stack:
+### My tech stack:
 <img align="left" alt="Java" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Spring" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
